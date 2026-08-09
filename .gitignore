@@ -1,0 +1,9 @@
+# Editors / IDEs
+.idea/
+.vscode/
+*.iml
+
+# OS noise
+Thumbs.db
+.DS_Store
+desktop.ini
