@@ -5,7 +5,7 @@ construction business in Maharashtra. It is a plain static site: no build step,
 no framework and no dependencies. Any static host (Netlify, Vercel, GitHub
 Pages, cPanel, S3) can serve the repository root as-is.
 
-Production domain: <https://ashokjadhavstoneworks.com/>
+Production domain: <https://ashokstoneworks.com/>
 
 ## Structure
 
